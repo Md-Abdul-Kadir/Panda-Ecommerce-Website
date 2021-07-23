@@ -1,0 +1,29 @@
+.bg-banner{
+    background-color: #fdeae9;
+}
+.bg-watch{
+    background-color: #ffa501;
+}
+.bg-bag{
+    background-color: #da70d6;
+}
+.bg-shoe{
+    background-color: #0043ff;
+}
+.bg-button{
+    background-color: #ff5398;
+    border-radius: 8px;
+    padding: 9px 25px;
+    color: white;
+}
+.bg-price{
+    color: #ff1370;
+}
+.input-subscribe{
+    width: 100%;
+    height: 50px;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
