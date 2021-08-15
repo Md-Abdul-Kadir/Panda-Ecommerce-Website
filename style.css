@@ -27,3 +27,12 @@
     border: 1px solid #ced4da;
     border-radius: .25rem;
 }
+
+.pic:hover {
+    transform: scale(1.3); 
+  }
+
+.large {
+   background-color: hotpink;
+   color: white ;
+  }
